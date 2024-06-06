@@ -1,0 +1,50 @@
+body {
+    background-color: blue;
+}
+
+
+
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 50px;
+    color: white;
+}
+button {
+        background-color: red;
+         border: none;
+         border-radius: 3px;
+         padding: 10px 18px;
+         color: white; 
+}
+section {
+    margin: 400px;
+    margin-top: 0;
+}
+img {
+max-width: 50%;
+max-height: 100%;
+float: left;
+margin-top: 40px;
+
+}
+h1 {
+    padding-left: 0;
+    justify-items: left;
+    margin-top: 40px;
+    color: rgb(237, 249, 250);
+    
+}
+
+h2,h4 {
+    color: white;
+    
+}
+p {
+    color: white;
+}
+a {
+    color: red;
+}
